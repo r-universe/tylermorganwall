@@ -1,0 +1,36 @@
+[
+  {
+    "package": "rayshader",
+    "oncran": true
+  },
+  {
+    "package": "rayrender",
+    "oncran": true
+  },
+  {
+    "package": "rayimage",
+    "oncran": true
+  },
+  {
+    "package": "rayvertex",
+    "oncran": true
+  },
+  {
+    "package": "raymolecule"
+  },
+  {
+    "package": "terrainmeshr",
+    "oncran": true
+  },
+  {
+    "package": "raybonsai"
+  },
+  {
+    "package": "spacefillr",
+    "oncran": true
+  },
+  {
+    "package": "adjustedcranlogs",
+    "oncran": true
+  }
+]
