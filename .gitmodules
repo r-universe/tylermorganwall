@@ -48,3 +48,8 @@
 	url = https://github.com/tylermorganwall/adjustedcranlogs
 	shallow = true
 	registered = true
+[submodule "rgl"]
+	path = rgl
+	url = https://github.com/dmurdoch/rgl
+	shallow = true
+	registered = false
