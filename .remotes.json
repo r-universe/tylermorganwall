@@ -10,5 +10,11 @@
     "url": "https://github.com/dmurdoch/rgl",
     "via": ["rayshader"],
     "from": "rayshader"
+  },
+  {
+    "package": "spacefillr",
+    "url": "https://github.com/tylermorganwall/spacefillr",
+    "via": ["rayrender"],
+    "from": "rayrender"
   }
 ]
