@@ -1,17 +1,5 @@
 [
   {
-    "package": "rayrender",
-    "url": "https://github.com/tylermorganwall/rayrender",
-    "via": ["rayshader"],
-    "from": "rayshader"
-  },
-  {
-    "package": "rgl",
-    "url": "https://github.com/dmurdoch/rgl",
-    "via": ["rayshader"],
-    "from": "rayshader"
-  },
-  {
     "package": "spacefillr",
     "url": "https://github.com/tylermorganwall/spacefillr",
     "via": ["rayrender"],
