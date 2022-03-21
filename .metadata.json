@@ -16,7 +16,8 @@
     "oncran": true
   },
   {
-    "package": "raymolecule"
+    "package": "raymolecule",
+    "oncran": false
   },
   {
     "package": "terrainmeshr",
