@@ -20,12 +20,6 @@
   {
     "package": "spacefillr",
     "url": "https://github.com/tylermorganwall/spacefillr",
-    "via": ["rayrender"],
-    "from": "rayrender"
-  },
-  {
-    "package": "spacefillr",
-    "url": "https://github.com/tylermorganwall/spacefillr",
     "via": ["rayshader", "rayrender"],
     "from": "rayshader"
   }
