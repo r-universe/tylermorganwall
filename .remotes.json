@@ -16,11 +16,5 @@
     "url": "https://github.com/tylermorganwall/rayvertex",
     "via": ["rayshader"],
     "from": "rayshader"
-  },
-  {
-    "package": "spacefillr",
-    "url": "https://github.com/tylermorganwall/spacefillr",
-    "via": ["rayshader", "rayrender"],
-    "from": "rayshader"
   }
 ]
