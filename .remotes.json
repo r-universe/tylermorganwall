@@ -2,6 +2,12 @@
   {
     "package": "rayimage",
     "url": "https://github.com/tylermorganwall/rayimage",
+    "via": ["rayrender"],
+    "from": "rayrender"
+  },
+  {
+    "package": "rayimage",
+    "url": "https://github.com/tylermorganwall/rayimage",
     "via": ["rayshader"],
     "from": "rayshader"
   },
