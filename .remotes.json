@@ -6,6 +6,12 @@
     "from": "rayshader"
   },
   {
+    "package": "rayimage",
+    "url": "https://github.com/tylermorganwall/rayimage",
+    "via": ["rayshader", "rayrender"],
+    "from": "rayshader"
+  },
+  {
     "package": "rayrender",
     "url": "https://github.com/tylermorganwall/rayrender",
     "via": ["rayshader"],
