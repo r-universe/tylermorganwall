@@ -1,55 +1,35 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/tylermorganwall/universe
-	shallow = true
 	branch = HEAD
 [submodule "rayshader"]
 	path = rayshader
 	url = https://github.com/tylermorganwall/rayshader
-	shallow = true
-	registered = true
 [submodule "rayrender"]
 	path = rayrender
 	url = https://github.com/tylermorganwall/rayrender
-	shallow = true
-	registered = true
 [submodule "rayimage"]
 	path = rayimage
 	url = https://github.com/tylermorganwall/rayimage
-	shallow = true
-	registered = true
 [submodule "rayvertex"]
 	path = rayvertex
 	url = https://github.com/tylermorganwall/rayvertex
-	shallow = true
-	registered = true
 [submodule "raymolecule"]
 	path = raymolecule
 	url = https://github.com/tylermorganwall/raymolecule
-	shallow = true
-	registered = true
 [submodule "terrainmeshr"]
 	path = terrainmeshr
 	url = https://github.com/tylermorganwall/terrainmeshr
-	shallow = true
-	registered = true
 [submodule "raybonsai"]
 	path = raybonsai
 	url = https://github.com/tylermorganwall/raybonsai
-	shallow = true
-	registered = true
 [submodule "spacefillr"]
 	path = spacefillr
 	url = https://github.com/tylermorganwall/spacefillr
-	shallow = true
-	registered = true
 [submodule "adjustedcranlogs"]
 	path = adjustedcranlogs
 	url = https://github.com/tylermorganwall/adjustedcranlogs
-	shallow = true
-	registered = true
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/dmurdoch/rgl
-	shallow = true
 	registered = false
