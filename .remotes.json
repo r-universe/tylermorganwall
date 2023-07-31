@@ -12,12 +12,6 @@
     "from": "rayshader"
   },
   {
-    "package": "rayimage",
-    "url": "https://github.com/tylermorganwall/rayimage",
-    "via": ["rayshader", "rayrender"],
-    "from": "rayshader"
-  },
-  {
     "package": "rayrender",
     "url": "https://github.com/tylermorganwall/rayrender",
     "via": ["rayshader"],
@@ -32,7 +26,7 @@
   {
     "package": "rayvertex",
     "url": "https://github.com/tylermorganwall/rayvertex",
-    "via": ["rayshader"],
+    "via": ["rayshader", "rayrender"],
     "from": "rayshader"
   },
   {
