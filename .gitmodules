@@ -2,34 +2,34 @@
 	path = .registry
 	url = https://github.com/tylermorganwall/universe
 	branch = HEAD
-[submodule "rayshader"]
-	path = rayshader
-	url = https://github.com/tylermorganwall/rayshader
-[submodule "rayrender"]
-	path = rayrender
-	url = https://github.com/tylermorganwall/rayrender
-[submodule "rayimage"]
-	path = rayimage
-	url = https://github.com/tylermorganwall/rayimage
-[submodule "rayvertex"]
-	path = rayvertex
-	url = https://github.com/tylermorganwall/rayvertex
-[submodule "raymolecule"]
-	path = raymolecule
-	url = https://github.com/tylermorganwall/raymolecule
-[submodule "terrainmeshr"]
-	path = terrainmeshr
-	url = https://github.com/tylermorganwall/terrainmeshr
-[submodule "raybonsai"]
-	path = raybonsai
-	url = https://github.com/tylermorganwall/raybonsai
-[submodule "spacefillr"]
-	path = spacefillr
-	url = https://github.com/tylermorganwall/spacefillr
 [submodule "adjustedcranlogs"]
 	path = adjustedcranlogs
 	url = https://github.com/tylermorganwall/adjustedcranlogs
+[submodule "raybonsai"]
+	path = raybonsai
+	url = https://github.com/tylermorganwall/raybonsai
+[submodule "rayimage"]
+	path = rayimage
+	url = https://github.com/tylermorganwall/rayimage
+[submodule "raymolecule"]
+	path = raymolecule
+	url = https://github.com/tylermorganwall/raymolecule
+[submodule "rayrender"]
+	path = rayrender
+	url = https://github.com/tylermorganwall/rayrender
+[submodule "rayshader"]
+	path = rayshader
+	url = https://github.com/tylermorganwall/rayshader
+[submodule "rayvertex"]
+	path = rayvertex
+	url = https://github.com/tylermorganwall/rayvertex
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/dmurdoch/rgl
 	registered = false
+[submodule "spacefillr"]
+	path = spacefillr
+	url = https://github.com/tylermorganwall/spacefillr
+[submodule "terrainmeshr"]
+	path = terrainmeshr
+	url = https://github.com/tylermorganwall/terrainmeshr
