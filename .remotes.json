@@ -28,11 +28,5 @@
     "url": "https://github.com/tylermorganwall/rayvertex",
     "via": ["rayshader", "rayrender"],
     "from": "rayshader"
-  },
-  {
-    "package": "rgl",
-    "url": "https://github.com/dmurdoch/rgl",
-    "via": ["rayshader"],
-    "from": "rayshader"
   }
 ]
