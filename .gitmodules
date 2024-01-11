@@ -5,6 +5,10 @@
 [submodule "adjustedcranlogs"]
 	path = adjustedcranlogs
 	url = https://github.com/tylermorganwall/adjustedcranlogs
+[submodule "raybevel"]
+	path = raybevel
+	url = https://github.com/tylermorganwall/raybevel
+	registered = false
 [submodule "raybonsai"]
 	path = raybonsai
 	url = https://github.com/tylermorganwall/raybonsai
@@ -23,6 +27,10 @@
 [submodule "rayvertex"]
 	path = rayvertex
 	url = https://github.com/tylermorganwall/rayvertex
+[submodule "rgl"]
+	path = rgl
+	url = https://github.com/dmurdoch/rgl
+	registered = false
 [submodule "spacefillr"]
 	path = spacefillr
 	url = https://github.com/tylermorganwall/spacefillr
