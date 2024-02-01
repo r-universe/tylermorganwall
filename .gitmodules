@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/tylermorganwall/universe
+	url = https://github.com/tylermorganwall/tylermorganwall.r-universe.dev
 	branch = HEAD
 [submodule "adjustedcranlogs"]
 	path = adjustedcranlogs
