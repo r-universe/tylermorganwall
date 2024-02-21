@@ -8,7 +8,6 @@
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/tylermorganwall/raybevel
-	registered = false
 [submodule "raybonsai"]
 	path = raybonsai
 	url = https://github.com/tylermorganwall/raybonsai
