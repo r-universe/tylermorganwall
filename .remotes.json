@@ -8,6 +8,12 @@
   {
     "package": "rayimage",
     "url": "https://github.com/tylermorganwall/rayimage",
+    "via": ["raybevel", "rayrender"],
+    "from": "raybevel"
+  },
+  {
+    "package": "rayimage",
+    "url": "https://github.com/tylermorganwall/rayimage",
     "via": ["raymolecule", "rayrender"],
     "from": "raymolecule"
   },
@@ -26,6 +32,12 @@
   {
     "package": "rayrender",
     "url": "https://github.com/tylermorganwall/rayrender",
+    "via": ["raybevel"],
+    "from": "raybevel"
+  },
+  {
+    "package": "rayrender",
+    "url": "https://github.com/tylermorganwall/rayrender",
     "via": ["raymolecule"],
     "from": "raymolecule"
   },
@@ -34,6 +46,12 @@
     "url": "https://github.com/tylermorganwall/rayrender",
     "via": ["rayshader"],
     "from": "rayshader"
+  },
+  {
+    "package": "rayvertex",
+    "url": "https://github.com/tylermorganwall/rayvertex",
+    "via": ["raybevel", "rayrender"],
+    "from": "raybevel"
   },
   {
     "package": "rayvertex",
