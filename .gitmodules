@@ -30,6 +30,9 @@
 	path = rgl
 	url = https://github.com/dmurdoch/rgl
 	registered = false
+[submodule "skpr"]
+	path = skpr
+	url = https://github.com/tylermorganwall/skpr
 [submodule "spacefillr"]
 	path = spacefillr
 	url = https://github.com/tylermorganwall/spacefillr
