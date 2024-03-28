@@ -26,10 +26,6 @@
 [submodule "rayvertex"]
 	path = rayvertex
 	url = https://github.com/tylermorganwall/rayvertex
-[submodule "rgl"]
-	path = rgl
-	url = https://github.com/dmurdoch/rgl
-	registered = false
 [submodule "skpr"]
 	path = skpr
 	url = https://github.com/tylermorganwall/skpr
