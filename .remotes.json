@@ -1,5 +1,11 @@
 [
   {
+    "package": "pillar",
+    "url": "https://github.com/r-lib/pillar",
+    "via": ["rayvertex"],
+    "from": "rayvertex"
+  },
+  {
     "package": "raybevel",
     "url": "https://github.com/tylermorganwall/raybevel",
     "via": ["rayshader"],

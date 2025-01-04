@@ -5,6 +5,10 @@
 [submodule "adjustedcranlogs"]
 	path = adjustedcranlogs
 	url = https://github.com/tylermorganwall/adjustedcranlogs
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
+	registered = false
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/tylermorganwall/raybevel
