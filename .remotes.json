@@ -2,6 +2,12 @@
   {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
+    "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
+    "from": "rayshader"
+  },
+  {
+    "package": "pillar",
+    "url": "https://github.com/r-lib/pillar",
     "via": ["rayvertex"],
     "from": "rayvertex"
   },
@@ -32,7 +38,7 @@
   {
     "package": "rayimage",
     "url": "https://github.com/tylermorganwall/rayimage",
-    "via": ["rayshader"],
+    "via": ["rayshader", "raybevel", "rayrender"],
     "from": "rayshader"
   },
   {
@@ -56,7 +62,7 @@
   {
     "package": "rayrender",
     "url": "https://github.com/tylermorganwall/rayrender",
-    "via": ["rayshader"],
+    "via": ["rayshader", "raybevel"],
     "from": "rayshader"
   },
   {
@@ -80,7 +86,7 @@
   {
     "package": "rayvertex",
     "url": "https://github.com/tylermorganwall/rayvertex",
-    "via": ["rayshader", "rayrender"],
+    "via": ["rayshader", "raybevel", "rayrender"],
     "from": "rayshader"
   }
 ]
