@@ -2,6 +2,12 @@
   {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
+    "via": ["rayrender", "rayvertex"],
+    "from": "rayrender"
+  },
+  {
+    "package": "pillar",
+    "url": "https://github.com/r-lib/pillar",
     "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
     "from": "rayshader"
   },
