@@ -86,6 +86,12 @@
   {
     "package": "rayshader",
     "url": "https://github.com/tylermorganwall/rayshader",
+    "via": ["raybevel", "rayrender"],
+    "from": "raybevel"
+  },
+  {
+    "package": "rayshader",
+    "url": "https://github.com/tylermorganwall/rayshader",
     "via": ["rayrender"],
     "from": "rayrender"
   },
@@ -112,6 +118,12 @@
     "url": "https://github.com/tylermorganwall/rayvertex",
     "via": ["rayshader", "raybevel", "rayrender"],
     "from": "rayshader"
+  },
+  {
+    "package": "rgl",
+    "url": "https://github.com/dmurdoch/rgl",
+    "via": ["raybevel", "rayrender", "rayshader"],
+    "from": "raybevel"
   },
   {
     "package": "rgl",
