@@ -136,5 +136,11 @@
     "url": "https://github.com/dmurdoch/rgl",
     "via": ["rayshader"],
     "from": "rayshader"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/tylermorganwall/testthat",
+    "via": ["rayrender"],
+    "from": "rayrender"
   }
 ]

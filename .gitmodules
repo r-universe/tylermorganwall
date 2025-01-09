@@ -43,3 +43,7 @@
 [submodule "terrainmeshr"]
 	path = terrainmeshr
 	url = https://github.com/tylermorganwall/terrainmeshr
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/tylermorganwall/testthat
+	registered = false
