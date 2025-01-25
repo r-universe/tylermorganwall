@@ -142,5 +142,11 @@
     "url": "https://github.com/tylermorganwall/testthat",
     "via": ["rayrender"],
     "from": "rayrender"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/tylermorganwall/testthat",
+    "via": ["rayshader", "raybevel", "rayrender"],
+    "from": "rayshader"
   }
 ]
