@@ -140,6 +140,12 @@
   {
     "package": "testthat",
     "url": "https://github.com/tylermorganwall/testthat",
+    "via": ["raybevel", "rayrender"],
+    "from": "raybevel"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/tylermorganwall/testthat",
     "via": ["rayrender"],
     "from": "rayrender"
   },
