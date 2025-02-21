@@ -8,6 +8,12 @@
   {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
+    "via": ["rayrender", "rayshader", "raybevel", "rayvertex"],
+    "from": "rayrender"
+  },
+  {
+    "package": "pillar",
+    "url": "https://github.com/r-lib/pillar",
     "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
     "from": "rayshader"
   },
@@ -16,6 +22,12 @@
     "url": "https://github.com/r-lib/pillar",
     "via": ["rayvertex"],
     "from": "rayvertex"
+  },
+  {
+    "package": "raybevel",
+    "url": "https://github.com/tylermorganwall/raybevel",
+    "via": ["rayrender", "rayshader"],
+    "from": "rayrender"
   },
   {
     "package": "raybevel",
@@ -34,6 +46,12 @@
     "url": "https://github.com/tylermorganwall/rayimage",
     "via": ["raymolecule", "rayrender"],
     "from": "raymolecule"
+  },
+  {
+    "package": "rayimage",
+    "url": "https://github.com/tylermorganwall/rayimage",
+    "via": ["rayrender", "rayshader", "raybevel", "rayvertex"],
+    "from": "rayrender"
   },
   {
     "package": "rayimage",
@@ -72,6 +90,12 @@
     "from": "raybevel"
   },
   {
+    "package": "rayshader",
+    "url": "https://github.com/tylermorganwall/rayshader",
+    "via": ["rayrender"],
+    "from": "rayrender"
+  },
+  {
     "package": "rayvertex",
     "url": "https://github.com/tylermorganwall/rayvertex",
     "via": ["raybevel", "rayrender"],
@@ -86,6 +110,12 @@
   {
     "package": "rayvertex",
     "url": "https://github.com/tylermorganwall/rayvertex",
+    "via": ["rayrender", "rayshader", "raybevel"],
+    "from": "rayrender"
+  },
+  {
+    "package": "rayvertex",
+    "url": "https://github.com/tylermorganwall/rayvertex",
     "via": ["rayshader", "raybevel", "rayrender"],
     "from": "rayshader"
   },
@@ -94,6 +124,12 @@
     "url": "https://github.com/dmurdoch/rgl",
     "via": ["raybevel", "rayrender", "rayshader"],
     "from": "raybevel"
+  },
+  {
+    "package": "rgl",
+    "url": "https://github.com/dmurdoch/rgl",
+    "via": ["rayrender", "rayshader"],
+    "from": "rayrender"
   },
   {
     "package": "rgl",
