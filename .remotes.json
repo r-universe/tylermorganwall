@@ -1,5 +1,11 @@
 [
   {
+    "package": "mbest",
+    "url": "https://github.com/tylermorganwall/mbest",
+    "via": ["skpr"],
+    "from": "skpr"
+  },
+  {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
     "via": ["raybevel", "rayrender", "rayvertex"],
