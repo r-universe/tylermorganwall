@@ -5,6 +5,15 @@
 [submodule "adjustedcranlogs"]
 	path = adjustedcranlogs
 	url = https://github.com/tylermorganwall/adjustedcranlogs
+[submodule "libdeflate"]
+	path = libdeflate
+	url = https://github.com/tylermorganwall/libdeflate
+[submodule "libimath"]
+	path = libimath
+	url = https://github.com/tylermorganwall/libimath
+[submodule "libopenexr"]
+	path = libopenexr
+	url = https://github.com/tylermorganwall/libopenexr
 [submodule "mbest"]
 	path = mbest
 	url = https://github.com/tylermorganwall/mbest
