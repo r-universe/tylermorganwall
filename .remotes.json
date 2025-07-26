@@ -1,5 +1,11 @@
 [
   {
+    "package": "libopenexr",
+    "url": "https://github.com/tylermorganwall/libopenexr",
+    "via": ["rayimage"],
+    "from": "rayimage"
+  },
+  {
     "package": "mbest",
     "url": "https://github.com/tylermorganwall/mbest",
     "via": ["skpr"],
