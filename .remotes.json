@@ -12,6 +12,12 @@
     "from": "rayshader"
   },
   {
+    "package": "libopenexr",
+    "url": "https://github.com/tylermorganwall/libopenexr",
+    "via": ["rayvertex", "rayimage"],
+    "from": "rayvertex"
+  },
+  {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
     "via": ["raybevel", "rayrender", "rayvertex"],
