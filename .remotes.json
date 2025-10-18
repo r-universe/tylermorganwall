@@ -14,6 +14,12 @@
   {
     "package": "libopenexr",
     "url": "https://github.com/tylermorganwall/libopenexr",
+    "via": ["rayrender", "rayshader", "raybevel", "rayvertex", "rayimage"],
+    "from": "rayrender"
+  },
+  {
+    "package": "libopenexr",
+    "url": "https://github.com/tylermorganwall/libopenexr",
     "via": ["rayshader", "raybevel", "rayvertex", "rayimage"],
     "from": "rayshader"
   },
