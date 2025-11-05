@@ -20,7 +20,7 @@
   {
     "package": "libopenexr",
     "url": "https://github.com/tylermorganwall/libopenexr",
-    "via": ["rayshader", "raybevel", "rayvertex", "rayimage"],
+    "via": ["rayshader", "raybevel", "rayrender", "rayimage"],
     "from": "rayshader"
   },
   {
@@ -50,7 +50,7 @@
   {
     "package": "pillar",
     "url": "https://github.com/r-lib/pillar",
-    "via": ["rayshader", "raybevel", "rayvertex"],
+    "via": ["rayshader", "raybevel", "rayrender", "rayvertex"],
     "from": "rayshader"
   },
   {
@@ -98,7 +98,7 @@
   {
     "package": "rayimage",
     "url": "https://github.com/tylermorganwall/rayimage",
-    "via": ["rayshader", "raybevel", "rayvertex"],
+    "via": ["rayshader", "raybevel", "rayrender"],
     "from": "rayshader"
   },
   {
@@ -164,7 +164,7 @@
   {
     "package": "rayvertex",
     "url": "https://github.com/tylermorganwall/rayvertex",
-    "via": ["rayshader", "raybevel"],
+    "via": ["rayshader", "raybevel", "rayrender"],
     "from": "rayshader"
   },
   {
