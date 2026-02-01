@@ -14,10 +14,6 @@
 [submodule "libopenexr"]
 	path = libopenexr
 	url = https://github.com/tylermorganwall/libopenexr
-[submodule "pillar"]
-	path = pillar
-	url = https://github.com/r-lib/pillar
-	registered = false
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/tylermorganwall/raybevel
@@ -39,10 +35,6 @@
 [submodule "rayvertex"]
 	path = rayvertex
 	url = https://github.com/tylermorganwall/rayvertex
-[submodule "rgl"]
-	path = rgl
-	url = https://github.com/dmurdoch/rgl
-	registered = false
 [submodule "skpr"]
 	path = skpr
 	url = https://github.com/tylermorganwall/skpr
@@ -52,7 +44,3 @@
 [submodule "terrainmeshr"]
 	path = terrainmeshr
 	url = https://github.com/tylermorganwall/terrainmeshr
-[submodule "testthat"]
-	path = testthat
-	url = https://github.com/tylermorganwall/testthat
-	registered = false
