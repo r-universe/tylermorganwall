@@ -5,6 +5,12 @@
 [submodule "adjustedcranlogs"]
 	path = adjustedcranlogs
 	url = https://github.com/tylermorganwall/adjustedcranlogs
+[submodule "cgltf"]
+	path = cgltf
+	url = https://github.com/tylermorganwall/cgltf
+[submodule "glmheaders"]
+	path = glmheaders
+	url = https://github.com/tylermorganwall/glmheaders
 [submodule "libdeflate"]
 	path = libdeflate
 	url = https://github.com/tylermorganwall/libdeflate
@@ -14,6 +20,18 @@
 [submodule "libopenexr"]
 	path = libopenexr
 	url = https://github.com/tylermorganwall/libopenexr
+[submodule "libopenusd"]
+	path = libopenusd
+	url = https://github.com/tylermorganwall/libopenusd
+[submodule "openpbr"]
+	path = openpbr
+	url = https://github.com/tylermorganwall/openpbr
+[submodule "openvdbr"]
+	path = openvdbr
+	url = https://github.com/tylermorganwall/openvdbr
+[submodule "ptexr"]
+	path = ptexr
+	url = https://github.com/tylermorganwall/ptexr
 [submodule "raybevel"]
 	path = raybevel
 	url = https://github.com/tylermorganwall/raybevel
@@ -38,9 +56,18 @@
 [submodule "skpr"]
 	path = skpr
 	url = https://github.com/tylermorganwall/skpr
+[submodule "skymodelr"]
+	path = skymodelr
+	url = https://github.com/tylermorganwall/skymodelr
 [submodule "spacefillr"]
 	path = spacefillr
 	url = https://github.com/tylermorganwall/spacefillr
+[submodule "stbimageheaders"]
+	path = stbimageheaders
+	url = https://github.com/tylermorganwall/stbimageheaders
 [submodule "terrainmeshr"]
 	path = terrainmeshr
 	url = https://github.com/tylermorganwall/terrainmeshr
+[submodule "tinydng"]
+	path = tinydng
+	url = https://github.com/tylermorganwall/tinydng
